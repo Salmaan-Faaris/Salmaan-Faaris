@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Salman Faris!
 
-👩‍💻 AI ML Enthusiast | Aspiring Fullstack Developer<br>🎓 Computer Science Student at CUSAT specializing in Artificial Intelligence and Data Science<br>🏢 Looking forward to collaborate with motivated individuals and innovative ideas and developing innovative ideas for modern Hitch.<br> 🎮 Passionate about gaming, especially on mobile! Exploring virtual worlds and challenges is my favorite way to unwind.<br> 🔭 I am currently learning about Cloud Computing
+👩‍💻 AI ML Enthusiast | Aspiring Fullstack Developer<br>🎓 Computer Science Student at CUSAT specializing in Artificial Intelligence and Data Science<br>🏢 Looking forward to collaborate with motivated individuals and innovative ideas and developing innovative ideas for modern Hitch.<br> 🎮 Passionate about gaming, especially on mobile! Exploring virtual worlds and challenges is my favorite way to unwind.
 
 ## 🌐 Socials:
 
