@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-- LinkedIn - www.linkedin.com/in/salman-faris-752667255
+- LinkedIn - www.linkedin.com/in/salmaanfaaris
 - E-mail - salmanfaris.n@gmail.com
 
 # 💻 Skills and Tech Stack:
